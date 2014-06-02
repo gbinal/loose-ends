@@ -1,0 +1,27 @@
+ID,NOAA IP Docket Number,Application Number,Title of Patent,Line Office,Lab,Provisional Patent Filed?,Provisional File Date,Provisional Issue Date,Full Patent Filed?,Full Patent File Date,Full Patent Issue Date,Full Patent Expire Date,Patent Number,Licensed?,Notes/Comments
+7,TPO-IP00001,08282630,Simultaneous Differential Polarimetric Measurements and Co-Polar Correlation Coefficient Measurement,OAR,NSSL,FALSE,,,TRUE,7 /29/1994,3 /19/1996,7 /29/2014,5500646,TRUE,
+8,TPO-IP00002,08516219,Wind Profiling Radar,OAR,ESRL,FALSE,,,TRUE,8 /17/1995,1 /7 /1997,8 /17/2015,5592171,TRUE,
+9,TPO-IP00003,09314619,Method of Storing Raster Image in Run Lengths Having Variable Numbers of Bytes and Medium with Raster Image Thus Stored,NOS,NCCOS,FALSE,,,TRUE,9 /29/1994,3 /10/1998,3 /10/2015,5727090,FALSE,
+12,TPO-IP00006,09784206,Atmospheric Sondes and Method for Tracking,OAR,ESRL,FALSE,,,TRUE,2 /16/2001,7 /16/2002,2 /16/2021,6421010,FALSE,
+13,TPO-IP00007,09819682,"Efficient Estimation of Spectral Moments and the Polarimetric Variables on Weather Radars, Sonars, Sodars, Acoustic Flow Meters, Lidars, and Similar Active Remote Sensing Instruments",OAR,NSSL,FALSE,,,TRUE,3 /29/2001,9 /10/2002,3 /29/2021,6448923,TRUE,
+11,TPO-IP00005,09941636,Operational Bright-Band Snow Level Detection Using Doppler Radar,OAR,ESRL,FALSE,,,TRUE,8 /30/2001,9 /2 /2003,8 /30/2021,6615140,FALSE,
+14,TPO-IP00008,10207188,Combination N-Way Power Divider/Combiner and Noninvasive Reflected Power Detection,OAR,ESRL,FALSE,,,TRUE,7 /30/2002,6 /22/2004,7 /30/2022,6753807,TRUE,
+15,TPO-IP00009,10288436,Projecting Images on a Sphere,OAR,ESRL,FALSE,,,TRUE,11/6 /2002,8 /30/2005,11/6 /2022,6937210,TRUE,
+16,TPO-IP00010,11133324,System for Reporting High Resolution Ocean Pressures in Near Realtime for the Purposes of Tsunami Monitoring,OAR,PMEL,FALSE,,,TRUE,5 /20/2005,10/30/2007,5 /20/2025,7289907,TRUE,
+18,TPO-IP00012,11464607,System and Method for Providing Vertical Profile Measurements of Atmospheric Gases,OAR,ESRL,FALSE,,,TRUE,8 /15/2006,10/6 /2009,8 /15/2026,7597014,FALSE,
+25,TPO-IP00019,11507176,Mooring Line for an Oceanographic Buoy System,OAR,PMEL,FALSE,,,TRUE,8 /21/2006,7 /17/2007,8 /21/2006,7244155,FALSE,
+19,TPO-IP00013,11774704,"Selectively Lossy, Lossless, and/or Error Robust Data Compression Method",NESDIS,NCDC,FALSE,,,TRUE,7 /9 /2007,3 /15/2011,7 /9 /2027,7907784,FALSE,
+20,TPO-IP00014,11892610,Stepped Electric Field Detector,OAR,ARL,FALSE,,,TRUE,8 /24/2007,5 /4 /2010,8 /24/2027,7709787,FALSE,
+27,TPO-IP00021,11932741,Nanoporous Insulating Oxide Deionization Device Having Asymmetric Electrodes and Method of Use Thereof,NESDIS,NCDC,FALSE,,,TRUE,10/31/2007,7 /10/2012,10/31/2027,8216445,TRUE,Assigned to Wisconsin Alumni Research Foundation
+21,TPO-IP00015,11937262,Detection of Transient Signals in Doppler Spectra,OAR,ESRL,FALSE,,,TRUE,11/8 /2007,9 /20/2011,11/8 /2027,8022864,FALSE,
+22,TPO-IP00016,12021091,DNA Sampling Hook,NMFS,NWFSC,FALSE,,,TRUE,1 /28/2008,11/2 /2010,1 /28/2028,7823321,FALSE,
+23,TPO-IP00017,12050836,Predicting Tropical Cyclone Destructive Potential by Integrated Kinetic Energy According to the Powell/Reinhold Scale,OAR,AOML,FALSE,,,TRUE,3 /18/2008,6 /28/2011,3 /18/2028,7970543,FALSE,
+24,TPO-IP00018,12554910,"System for Monitoring, Determining, and Reporting Directional Spectra of Ocean Surface Waves in Near Realtime from a Moored Buoy",NWS,NDBC,FALSE,,,TRUE,9 /6 /2009,6 /5 /2012,9 /6 /2029,8195395,FALSE,
+28,TPO-IP00022,12566884,Novel Euglenoid Derived Alkaloid,NOS,NCCOS,FALSE,,,TRUE,9 /25/2009,5 /17/2011,9 /25/2029,7943142,TRUE,
+30,TPO-IP00028,12699272,An Imaging Polar Nephelometer,OAR,ESRL,FALSE,,,TRUE,2 /3 /2010,9 /10/2013,2 /3 /2030,8531516,FALSE,USPTO Office Action dated 6/6/2013
+31,TPO-IP00029,13762652,Technique to Mitigate Storms Using Arrays of Wind Turbines,OAR,ESRL,FALSE,,,TRUE,2 /8 /2013,,,,FALSE,
+34,TPO-IP00026,14147676,"Smart Module for Communications, Processing, and Interface",NWS,NCDC,TRUE,1 /6 /2014,1 /6 /2014,TRUE,1 /6 /2014,,,,FALSE,
+35,TPO-IP00036,14194987,Red Fluorescent Protein - tprRFP,NOS,NCCOS,TRUE,3 /3 /2014,3 /3 /2014,FALSE,,,,,FALSE,Filed by Derek Parks-TPO
+29,TPO-IP00024,61838914,Stationary Tether Device for Buoy Apparatus and System for Using,NWS,NDBC,TRUE,6 /25/2013,6 /25/2013,FALSE,,,,,FALSE,
+32,TPO-IP00027,61840182,Open Path Optical Cell with Zero Calibration Purge for Cavity Ring-Down and Other Techniques,OAR,ESRL,TRUE,6 /27/2013,6 /27/2013,FALSE,,,,,FALSE,Filed by Derek Parks-TPO
+33,TPO-IP00030,61908561,Method to Offset Range in an FM-CW Radar,OAR,ESRL,TRUE,11/25/2013,11/25/2013,FALSE,,,,,FALSE,
